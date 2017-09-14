@@ -1,2 +1,2 @@
 # bytheway
-This mobile application for search any travelers
+This is a mobile application for searching any travellers
